@@ -1,2 +1,2 @@
-# Exerc-cios-AlgED---Vetores-e-Matrizes
+# Exercicios-AlgED---Vetores-e-Matrizes
 Exercícios
